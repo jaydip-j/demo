@@ -30,3 +30,72 @@
 .btn{
     text-align: center;
 }
+.container{
+    height:100vh;
+    width:1900px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.head{
+    border: 5px solid black;
+    height: 200px;
+    width: 500px;
+    margin-top: 10vh;
+    display: flex;
+    
+}
+
+.cardA{
+    background-color: rgb(82, 223, 216);
+    margin: 20px;
+    height: 10vh;
+    width: 10vh;
+    border: 2px solid black;
+}
+
+.cardB{
+    background-color: rgb(111, 178, 240);
+    margin: 20px;
+    height: 10vh;
+    width: 10vh;
+    border: 2px solid black;
+}
+
+.cardC{
+    background-color: rgb(105, 114, 245);
+    margin: 20px;
+    height: 10vh;
+    width: 10vh;
+    border: 2px solid black;
+}
+
+.cardD{background-color: blue;
+    margin: 20px;
+    height: 10vh;
+    width: 10vh;
+    border: 2px solid black;
+}
+
+.village{
+    margin-left: 75vh;
+    margin-top: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    width: 40vh;
+    border: 2px solid black;
+    background-color: #E0FFFF;
+    border-radius: 12px;
+}   
+
+#hight{
+    margin: 20px;
+
+}
+#weight{
+    margin-left: 9px;
+}
